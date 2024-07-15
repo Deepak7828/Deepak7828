@@ -13,7 +13,7 @@
 
 
 📫 **How to reach me:**
-- [deepakrajak56772@gmail.com]
+- deepakrajak56772@gmail.com
 
 ---
 
