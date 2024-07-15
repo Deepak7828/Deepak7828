@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Deepak! 👋
+
+🎓 **Education:**
+- Pursuing B.Tech in Information Technology at TIT
+
+💻 **Skills:**
+- **Frontend Development:** HTML, CSS, JavaScript
+- **Programming Languages:** C++, Java
+
+🌱 **Currently Learning:**
+- Advanced JavaScript frameworks and libraries
+- Backend development with Node.js
+
+
+📫 **How to reach me:**
+- [deepakrajak56772@gmail.com]
+
+---
+
+Feel free to check out my repositories and get in touch!
 
 <!--
-**Deepak7828/Deepak7828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**deepak/deepak** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
