@@ -1,7 +1,7 @@
 # Hi there, I'm Deepak! 👋
 
 🎓 **Education:**
-- Pursuing B.Tech in Information Technology at TIT
+- Pursuing B.Tech in Information Technology at TIT college bhopal
 
 💻 **Skills:**
 - **Frontend Development:** HTML, CSS, JavaScript
