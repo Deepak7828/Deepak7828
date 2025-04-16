@@ -10,7 +10,7 @@
 🌱 **Currently Learning:**
 - Advanced JavaScript frameworks and libraries
 - Backend development with Node.js
-
+_ basic ruby 
 
 📫 **How to reach me:**
 - deepakrajak56772@gmail.com
