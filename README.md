@@ -5,12 +5,14 @@
 
 💻 **Skills:**
 - **Frontend Development:** HTML, CSS, JavaScript
-- **Programming Languages:** C++, Java advance python 
+- **Programming Languages:** C++, Java (advance),  python ( basic) 
 
 🌱 **Currently Learning:**
 - Advanced JavaScript frameworks and libraries
 - Backend development with Node.js
-_ basic ruby 
+_ basic ruby
+- Frontend Development with SQL And Node.js
+
 
 📫 **How to reach me:**
 - deepakrajak56772@gmail.com
@@ -20,5 +22,5 @@ _ basic ruby
 Feel free to check out my repositories and get in touch!
 
 <!--
-**deepak/deepak** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**deepak/deepak** is a ✨ special ✨ repository because its `` (this file) appears on your GitHub profile.
 -->
