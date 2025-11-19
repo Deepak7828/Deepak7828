@@ -12,6 +12,8 @@
 - Backend development with Node.js
 _ basic ruby
 - Frontend Development with SQL And Node.js
+- Web development 
+- app development 
 
 
 📫 **How to reach me:**
