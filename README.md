@@ -5,7 +5,7 @@
 
 💻 **Skills:**
 - **Frontend Development:** HTML, CSS, JavaScript
-- **Programming Languages:** C++, Java, python 
+- **Programming Languages:** C++, Java advance python 
 
 🌱 **Currently Learning:**
 - Advanced JavaScript frameworks and libraries
