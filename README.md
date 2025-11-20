@@ -6,14 +6,16 @@
 💻 **Skills:**
 - **Frontend Development:** HTML, CSS, JavaScript
 - **Programming Languages:** C++, Java (advance),  python ( basic) 
+- app development 
+- web development 
+- Advance SQL.
 
 🌱 **Currently Learning:**
 - Advanced JavaScript frameworks and libraries
 - Backend development with Node.js
 _ basic ruby
-- Frontend Development with SQL And Node.js
-- Web development 
-- app development 
+
+
 
 
 📫 **How to reach me:**
